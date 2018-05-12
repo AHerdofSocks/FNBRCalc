@@ -1,8 +1,10 @@
 # Hello World!
+#
 # My name is AHerdofSocks
+#
 # This application is for calculating progession in Fortnite's Battle Royale mode
 
-<script type = "text/javascript" src="http://yourjavascript.com/3218500581/main.js"></script>
+<script src="http://yourjavascript.com/3218500581/main.js"></script>
 
 //javascript
 
