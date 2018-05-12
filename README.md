@@ -6,7 +6,7 @@
 
 <script src="http://yourjavascript.com/3218500581/main.js"></script>
 
-//javascript
+<script> //javascript
 
 //Author: John Willams
 
@@ -109,3 +109,4 @@ console.log('-----------------');
 console.log('Leveling ', weeklylevel, ' times per week: ', fiveperweek, ' weeks... good luck.');
 console.log('... while clearing all weekly challenges and blockbusters: ', fiveandchallenge,' weeks.');
 console.log('... and dailies:', fandcanddaily, 'weeks.');
+ </script
