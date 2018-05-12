@@ -2,6 +2,8 @@
 # My name is AHerdofSocks
 # This application is for calculating progession in Fortnite's Battle Royale mode
 
+<script src="https://raw.github.com/AHerdofSocks/FNBRCalc/master/main.js"></script>
+
 //javascript
 
 //Author: John Willams
