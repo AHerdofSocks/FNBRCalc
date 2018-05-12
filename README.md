@@ -113,6 +113,6 @@ console.log('... and dailies:', fandcanddaily, 'weeks.');
 
 //Alert display
 
-alert('Tier: '+ tier + 'Level: '+ level + '\n Stars until next tier up:'+ tierprog + 'Stars until tier 100:'+ tierstarrem + '\n -----------------\n Simple Levels until Tier 100:'+ levelprog1 + '\n -OR-\n Simple Challenge weeks until Tier 100:'+ challengeprog + '\n -----------------\n Leveling '+ weeklylevel + ' times per week: '+ fiveperweek + ' weeks... good luck.\n ... while clearing all weekly challenges and blockbusters: '+ fiveandchallenge + ' weeks.\n ... and dailies:'+ fandcanddaily + 'weeks.');
+alert('Tier: '+ tier + ' Level: '+ level + '\n Stars until next tier up: '+ tierprog + '\n Stars until tier 100: '+ tierstarrem + '\n -----------------\n Simple Levels until Tier 100 :'+ levelprog1 + '\n -OR-\n Simple Challenge weeks until Tier 100: '+ challengeprog + '\n -----------------\n Leveling '+ weeklylevel + ' times per week: '+ fiveperweek + ' weeks... good luck.\n ... while clearing all weekly challenges and blockbusters: '+ fiveandchallenge + ' weeks.\n ... and dailies:'+ fandcanddaily + 'weeks.');
 
 </script>
